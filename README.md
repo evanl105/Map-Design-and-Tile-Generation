@@ -14,3 +14,6 @@ The area of focus for this project was the University of Washington Seattle Camp
 
 ## NOTE
 Files were too large to upload to Github so the tilesets are uploaded as zip files for download. A more detailed version of the map is visible once the zip files are unzipped and downloaded onto your devices, along with the index.html
+
+## AI Notice
+No AI was used in the process of making this lab
